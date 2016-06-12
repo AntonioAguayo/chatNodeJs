@@ -1,0 +1,4 @@
+sintaxis github  https://github.com/ricval/Documentacion/blob/master/Guias/GitHub/mastering-markdown.md
+
+arrancar la aplicacion  
+C:\Users\anton\Desktop\nodeAAE\chatNodeJs>node index.js
